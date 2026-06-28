@@ -5,9 +5,6 @@ A modern and interactive Retail Sales Analytics Dashboard built to analyze sales
 ## 🚀 Live Demo
 🔗 Add your deployed application link here
 
-## 📂 GitHub Repository
-🔗 https://github.com/varalaxmimaripi-droid/retail-sales-analytics-dashboard
-
 ---
 
 ## 📖 Project Overview
